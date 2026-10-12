@@ -1,0 +1,5 @@
+interface:
+  display_name: "卡点变装旅拍"
+  short_description: "音乐节拍驱动剪辑，变装旅拍卡点片"
+policy:
+  allow_implicit_invocation: false

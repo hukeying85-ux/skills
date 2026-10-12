@@ -1,0 +1,5 @@
+interface:
+  display_name: "热点快评"
+  short_description: "热点事件极速快评，事实闸门加观点输出"
+policy:
+  allow_implicit_invocation: false

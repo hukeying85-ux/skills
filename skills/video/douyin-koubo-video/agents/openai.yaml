@@ -1,0 +1,5 @@
+interface:
+  display_name: "抖音口播爆款"
+  short_description: "复刻抖音口播类爆款视频，配音加字幕成片"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "播客直播切片工厂"
+  short_description: "长视频拆切片，爆款打分多平台分发"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "数字人带货口播"
+  short_description: "带货脚本公式加数字人成片"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "情感语录号"
+  short_description: "金句卡片加情感配音，副歌卡点成片"
+policy:
+  allow_implicit_invocation: false

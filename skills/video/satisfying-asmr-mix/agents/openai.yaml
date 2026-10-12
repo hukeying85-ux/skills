@@ -1,0 +1,5 @@
+interface:
+  display_name: "解压治愈混剪"
+  short_description: "解压 ASMR 混剪，音效设计优先"
+policy:
+  allow_implicit_invocation: false

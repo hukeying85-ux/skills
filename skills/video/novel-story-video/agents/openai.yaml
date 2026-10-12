@@ -1,0 +1,5 @@
+interface:
+  display_name: "小说推文故事号"
+  short_description: "AI 插画加悬念旁白，复刻推文号爆款"
+policy:
+  allow_implicit_invocation: false

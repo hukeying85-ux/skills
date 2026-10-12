@@ -1,0 +1,5 @@
+interface:
+  display_name: "游戏高光整活"
+  short_description: "高光集锦加梗化包装，B站抖音双版"
+policy:
+  allow_implicit_invocation: false
