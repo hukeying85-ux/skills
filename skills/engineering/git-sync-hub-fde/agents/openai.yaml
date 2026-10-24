@@ -1,0 +1,5 @@
+interface:
+  display_name: "Git Sync Hub FDE Guide"
+  short_description: "Write safe Chinese Git-sync runbooks"
+policy:
+  allow_implicit_invocation: false
